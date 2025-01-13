@@ -80,27 +80,6 @@ somedomain.org
 
 ---
 
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request. Make sure to follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a pull request.
-
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
