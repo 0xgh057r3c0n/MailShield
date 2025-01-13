@@ -1,6 +1,3 @@
-Here’s a `README.md` for your `MailShield` repository:
-
-```markdown
 # MailShield
 
 MailShield is a powerful Bash script designed to analyze DMARC (Domain-based Message Authentication, Reporting, and Conformance) records of domains. It identifies email spoofing vulnerabilities, helping you enhance email security and protect against phishing attacks.
