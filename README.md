@@ -96,4 +96,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Disclaimer
 
 MailShield is a tool for educational and security purposes. Use responsibly. The authors are not liable for misuse of the tool.
-```
